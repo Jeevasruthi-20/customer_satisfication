@@ -2,27 +2,31 @@
 
 ## 📊 Project Overview
 
-An interactive Customer Satisfaction Analysis dashboard
+An interactive customer satisfaction analysis dashboard
 developed using Microsoft Power BI.
 
 ## 🛠️ Tools Used
 
-- Power BI
+- Microsoft Power BI
 - Power Query
 - DAX
 - Data Visualization
 
-## 📈 Dashboard
+## 📷 Dashboard Preview
 
-[Dashboard screenshot]
+![Customer Satisfaction Dashboard](screenshots/dashboard.png)
 
-## 🔍 Key Insights
+## 📈 Key Analysis
 
 - Customer satisfaction trends
-- Customer segment analysis
-- Performance analysis
+- Customer performance analysis
 - KPI monitoring
+- Interactive visualizations
 
 ## 📁 Project Files
 
-Customer_Satisfaction_Analysis.pbix
+| File | Description |
+|---|---|
+| `Customer_Satisfaction_Analysis.pbix` | Power BI dashboard |
+| `screenshots/dashboard.png` | Dashboard preview |
+| `README.md` | Project documentation |
